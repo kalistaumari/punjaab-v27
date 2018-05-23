@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\Documents\Tugas Akhir\punjaab-v27\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\punjaab-v27\mobile\build\intermediates\transforms\dex\debug\folders\1000\4\classes_56fb34d4c5d0de52a0b7408ace07e706ee986363\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\calista\Documents\Tugas Akhir\punjaab-v26\wear\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\punjaab-v26\wear\build\intermediates\pre-dexed\debug\opencsv-3.3_75ad7feb7d549d6bc8b84a3664d586614f4f7034.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\Documents\Tugas Akhir\punjaab-v26\mobile\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\punjaab-v26\mobile\build\intermediates\transforms\dex\debug\folders\1000\2\opencsv-3.3_67dd0c47a4a1c4f290dfabb4eb63ca34bf26ed97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\Documents\Tugas Akhir\punjaab-v24-master\mobile\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\punjaab-v24-master\mobile\build\intermediates\transforms\dex\debug\folders\1000\2\opencsv-3.3_3c1603902ed425334516dad0772b53eeb03a2a2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\Documents\Tugas Akhir\punjaab-v27\mobile\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\punjaab-v27\mobile\build\intermediates\transforms\dex\debug\folders\1000\2\opencsv-3.3_11206a82897eb70c3489893c0f09cb75fe96f2aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\calista\Documents\Tugas Akhir\punjaab-v26\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\punjaab-v26\wear\build\intermediates\pre-dexed\debug\classes_3e4d64955fe248b9be4be3e9341c8960ef7a2718.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\Documents\Tugas Akhir\punjaab-v26\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\punjaab-v26\mobile\build\intermediates\transforms\dex\debug\folders\1000\4\classes_3e4d64955fe248b9be4be3e9341c8960ef7a2718\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\Documents\Tugas Akhir\punjaab-v24-master\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\punjaab-v24-master\mobile\build\intermediates\transforms\dex\debug\folders\1000\4\classes_3354783a474feb078fb1fd020770460c8b60e56f\classes.dex" />
+    </item>
+
+</items>
